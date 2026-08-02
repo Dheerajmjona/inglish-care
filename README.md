@@ -4,7 +4,7 @@ A professional healthcare website developed for Inglish Care in the United Kingd
 
 ## 🌐 Live Website
 
-https://inglishcare.co.uk
+https://inglishcare.co.uk/
 
 ## 📋 Project Overview
 
